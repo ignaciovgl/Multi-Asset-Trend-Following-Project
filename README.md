@@ -1,5 +1,3 @@
-# Multi-Asset-Trend-Following-Project
-
 # Multi-Asset Trend-Following Backtest
 
 A systematic trend-following strategy built from scratch — data pipeline, signal construction, volatility-targeted position sizing, and a robustness-tested backtest across equities, bonds, FX, and commodities (2000–present).
